@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "numb": 1,
+            "question": "Who inherited Lysandra Castle after the death of Lord Harrington?",
+            "answer": "B. Lady Eleanor",
+            "option": [
+                "A. Sir Jonathan",
+                "B. Lady Eleanor",
+                "C. Mr. Fitzroy",
+                "D. Duchess Victoria"
+            ]
+        },
+        {
+            "numb": 2,
+            "question": "What secret was hidden in the west wing of the castle?",
+            "answer": "C. A magical mirror",
+            "option": [
+                "A. A treasure chest",
+                "B. A forbidden library",
+                "C. A magical mirror",
+                "D. The ghost of Lady Lysandra"
+            ]
+        },
+        {
+            "numb": 3,
+            "question": "Who was the loyal servant that helped the protagonist uncover the mysteries of the castle?",
+            "answer": "B. Mr. Thompson",
+            "option": [
+                "A. Mrs. Beasley",
+                "B. Mr. Thompson",
+                "C. Miss Clara",
+                "D. Colonel Huxley"
+            ]
+        },
+        {
+            "numb": 4,
+            "question": "Which animal frequently appeared as a symbolic representation throughout the novel?",
+            "answer": "B. Raven",
+            "option": [
+                "A. Lion",
+                "B. Raven",
+                "C. Wolf",
+                "D. Horse"
+            ]
+        },
+        {
+            "numb": 5,
+            "question": "Where did the protagonist find the old diary detailing the castle's history?",
+            "answer": "A. In the castle's attic",
+            "option": [
+                "A. In the castle's attic",
+                "B. In the hidden chamber",
+                "C. In the garden maze",
+                "D. In Lady Eleanor's bedroom"
+            ]
+        },
+        {
+            "numb": 6,
+            "question": "What spell was cast upon Lysandra Castle causing eternal night?",
+            "answer": "C. The Shadow Curse",
+            "option": [
+                "A. Moonlight Enchantment",
+                "B. Endless Dusk Spell",
+                "C. The Shadow Curse",
+                "D. Lysandra's Lament"
+            ]
+        },
+        {
+            "numb": 7,
+            "question": "Which character was revealed to be a traitor halfway through the novel?",
+            "answer": "D. Colonel Huxley",
+            "option": [
+                "A. Miss Clara",
+                "B. Sir Jonathan",
+                "C. Mr. Thompson",
+                "D. Colonel Huxley"
+            ]
+        },
+        {
+            "numb": 8,
+            "question": "Which of the following items was essential to breaking the Shadow Curse?",
+            "answer": "C. The Sunstone Amulet",
+            "option": [
+                "A. Moonbeam Dagger",
+                "B. Golden Quill",
+                "C. Sunstone Amulet",
+                "D. Silver Harp"
+            ]
+        },
+        {
+            "numb": 9,
+            "question": "Who was the original builder of Lysandra Castle?",
+            "answer": "C. Sir Cedric Lysandra",
+            "option": [
+                "A. Lord Harrington",
+                "B. Duke Montgomery",
+                "C. Sir Cedric Lysandra",
+                "D. Baroness Eliza"
+            ]
+        },
+        {
+            "numb": 10,
+            "question": "In the climax, who sacrifices themselves to save the castle and its inhabitants?",
+            "answer": "C. Miss Clara",
+            "option": [
+                "A. Mr. Thompson",
+                "B. Lady Eleanor",
+                "C. Miss Clara",
+                "D. Sir Jonathan"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+
+    <link rel="stylesheet" href="./css/home.css">
+</head>
+<body>
+    
+    <div class="container">
+       
+            <button class="logout">Log out</button>
+        <div class="flexbox">
+            <div>
+            <div>
+                <div class="small-container">
+                    <div class="box author-box">
+                        <h2>Select an Author</h2>
+                        <select id="authorSelect">
+                            <option value="author1">Philip Pullman</option>
+                            <option value="author3">Terry Pratchett</option>
+                        </select>
+                    </div>
+                    <div class="box book-type-box">
+                        <h2>Genre Preference</h2>
+                        <select id="genreTypeSelect">
+                            <option value="fiction">Fiction</option>
+                            <option value="Non-Fiction">Non-Fiction</option>
+                            <option value="Romance">Romance</option>
+                            <option value="Thriller&Mystery">Thriller & Mystery</option>
+                        </select>
+                        </div>
+                    <button class="invite-btn">Invite a friend</button>
+                    <button class="start-quiz-button">Start Quiz</button>
+                 </div>
+             </div>
+
+            </div>
+
+            <div>
+                <div class="form-box">
+                    <p class="search-txt">Your Personal Library</p>
+                    <input type="search" class="searchInput" name="searchInput" placeholder="Enter name of a book">
+                    <button class="search-btn">Search</button>
+                </div>
+            </div>
+        </div>
+        </div>
+
+    <script src="./js/home.js"></script>
+</body>
+</html>

@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #fff;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../img/books.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'roboto', sans-serif;
+}
+
+.container{
+    position: relative;
+    width: 90%;
+    height: 87vh;
+    border: 5px solid #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .flexbox{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+/* ... Your existing CSS styles ... */
+
+.author-box select,
+.book-type-box select {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+    outline: none;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.author-box select option,
+.book-type-box select option {
+    background-color: #333;
+    color: white;
+}
+
+
+.logout{
+    position: absolute;
+    top: 10px;
+    right: 0;
+    padding: 10px 20px;
+    text-transform: capitalize;
+    font-size: 16px;
+    color: #fff;
+    background: none;
+    /* text-decoration: underline; */
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+
+.start-quiz-button,
+.invite-btn,
+.search-btn{
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.start-quiz-button:hover,
+.invite-btn:hover,
+.search-btn:hover{
+    background-color: #0056b3;
+}
+
+.greeting{
+    font-family: 'dosis';
+    font-size: 100px;
+    color: #fff;
+    font-weight: 800;
+    text-transform: capitalize;
+}
+
+/* Search */
+form {
+    text-align: center;
+    margin-right: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+input[type="search"] {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    outline: none;
+}
+
+input[type="search"]:focus {
+    border-color: #007BFF;
+}
+
+.form-box{
+    margin: 0px 0px 0px 60px;
+    padding: 20px;
+}
+
+.search-txt{
+    font-size: 18px;
+    padding: 10px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+}
